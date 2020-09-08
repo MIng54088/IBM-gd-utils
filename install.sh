@@ -98,7 +98,6 @@ install(){
     echo
 }
 
-
 clone_repo
 create_mainfest_file
 install
